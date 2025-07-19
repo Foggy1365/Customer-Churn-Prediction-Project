@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "./venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "jupyter.askForKernelRestart": true,
+    "python.formatting.provider": "black",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+}
